@@ -1,0 +1,21 @@
+
+    #group{
+            -fx-background-image: url("space.png");
+            -fx-background-repeat: stretch;
+            -fx-background-size: 640 700;
+            -fx-background-position: center center;
+            -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+        }
+
+    #text {
+        -fx-font: 25px Tahoma;
+        -fx-stroke: red;
+        -fx-stroke-width: 1;
+    }
+
+    #points{
+            -fx-font: 25px Tahoma;
+            -fx-stroke: red;
+            -fx-stroke-width: 1;
+        }
+
